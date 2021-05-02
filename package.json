@@ -1,5 +1,5 @@
 {
-  "name": "check-luhn",
+  "name": "luhn-algorithm",
   "version": "1.0.0",
   "description": "Algoritmo de verificacion de Luhn.",
   "main": "index.js",
